@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,Country,AccountType,AccountBalance,TransactionAmount,CreditScore,LoanStatus,TenureYears
+C0001,29,Female,India,Savings,12500.50,750.25,721,No Loan,4
+C0002,44,Male,United Kingdom,Current,8200.00,1200.00,688,Approved,12
+C0003,35,Female,Germany,Salary,19600.75,325.00,754,Pending,7
+C0004,52,Male,India,Fixed Deposit,45000.00,2100.00,801,No Loan,19
+C0005,23,Other,France,Savings,2300.00,145.50,640,Rejected,1
+C0006,61,Female,United States,Current,9800.00,900.00,705,Approved,24
+C0007,38,Male,Spain,Salary,15400.00,540.00,733,No Loan,9
+C0008,47,Female,India,Savings,28200.00,1600.00,772,Pending,16
+C0009,31,Male,Germany,Current,6300.25,410.00,661,Rejected,5
+C0010,56,Female,United Kingdom,Fixed Deposit,52000.00,2700.00,815,Approved,21
